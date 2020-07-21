@@ -13,4 +13,13 @@ print(np.add(arr2,arr3))
 print(arr2-arr3)
 print(np.subtract(arr2,arr3))
 
+# Divide
+print(arr2/arr3)
+print(np.divide(arr2,arr3))
 
+# Remainder
+print(arr2%arr3)
+
+# Multiply
+print(arr2*arr3)
+print(np.multiply(arr2,arr3))
