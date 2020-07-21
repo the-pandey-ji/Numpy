@@ -7,3 +7,9 @@ print(type(arr))
 
 # no. of dimention in np array
 print(arr.ndim)
+
+# no. of element in array
+print(arr.size)
+
+# shape of array
+print(arr.shape)
