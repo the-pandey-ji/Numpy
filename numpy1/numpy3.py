@@ -20,3 +20,9 @@ print(arr2.ravel())
 # flatten function
 print("flatten function")
 print(arr2.flatten())
+
+# tanspose()
+a3=np.array([[1,2,3,4],[5,6,7,8]])
+#a3=a3.ravel()
+print(a3)
+print(a3.transpose())
