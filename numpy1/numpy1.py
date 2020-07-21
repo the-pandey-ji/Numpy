@@ -13,3 +13,5 @@ print(arr.size)
 
 # shape of array
 print(arr.shape)
+
+print(arr.dtype)
