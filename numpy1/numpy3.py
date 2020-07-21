@@ -16,3 +16,7 @@ print(arr2.reshape(12))
 # ravel function
 print(arr2)
 print(arr2.ravel())
+
+# flatten function
+print("flatten function")
+print(arr2.flatten())
