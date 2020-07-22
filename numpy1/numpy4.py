@@ -26,3 +26,5 @@ print(np.multiply(arr2,arr3))
 
 # matrix product
 print(arr2@arr3)
+print(np.dot(arr2,arr3))
+
