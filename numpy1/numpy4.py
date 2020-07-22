@@ -56,3 +56,8 @@ print(arr2.min(axis=1))
 # index of min values
 print(arr2.argmin(axis=0))
 
+# sum of while array
+print(np.sum(arr2))
+# sum of all columns and rows seprately
+print(np.sum(arr2,axis=0))
+print(np.sum(arr2,axis=1))
