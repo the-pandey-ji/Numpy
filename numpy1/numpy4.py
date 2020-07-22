@@ -28,3 +28,31 @@ print(np.multiply(arr2,arr3))
 print(arr2@arr3)
 print(np.dot(arr2,arr3))
 
+# max
+print(arr2.max())
+# 9
+# max element's index
+print(arr2.argmax())
+# 8
+# max value in all columns
+print(arr2.max(axis=0))
+# max value in all row
+print(arr2.max(axis=1))
+
+# index of max values
+print(arr2.argmax(axis=0))
+
+# min
+print(arr2.min())
+
+# min element's index
+print(arr2.argmin())
+
+# min value in all columns
+print(arr2.min(axis=0))
+# min value in all row
+print(arr2.min(axis=1))
+
+# index of min values
+print(arr2.argmin(axis=0))
+
