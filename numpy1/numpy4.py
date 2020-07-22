@@ -61,3 +61,19 @@ print(np.sum(arr2))
 # sum of all columns and rows seprately
 print(np.sum(arr2,axis=0))
 print(np.sum(arr2,axis=1))
+
+# average
+print(np.mean(arr2))
+
+# square root
+print(np.sqrt(arr2))
+
+# standard division
+print(np.std(arr2))
+
+# exponent
+print(np.exp(arr2))
+
+# log
+print(np.log(arr2))
+print(np.log10(arr2))
