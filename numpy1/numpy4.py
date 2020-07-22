@@ -23,3 +23,6 @@ print(arr2%arr3)
 # Multiply
 print(arr2*arr3)
 print(np.multiply(arr2,arr3))
+
+# matrix product
+print(arr2@arr3)
